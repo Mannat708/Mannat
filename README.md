@@ -36,10 +36,7 @@
     <p>Hi, my name is Mannat. I'm learning HTML and C++. This is my first website!</p>
   </div>
 
-  <div class="section">
-    <h2>📷 My Photo</h2>
-    <img src="https://via.placeholder.com/200" alt="My Photo">
-  </div>
+ 
 
   <div class="section">
     <h2>📚 My Skills</h2>
