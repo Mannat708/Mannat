@@ -69,7 +69,7 @@
       </tr>
       <tr>
       <td>7:00 PM-9:00PM</td>
-      <td> Syudy Slot 4 </td>
+      <td> Study Slot 4 </td>
     </table>
   </div>
 
